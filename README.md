@@ -6,7 +6,7 @@
 
 •  The sources of data that you will extract from.
 
-*	[Kaggle]()
+*	[Kaggle](https://www.kaggle.com/)
 
 •  The type of transformation needed for this data (cleaning, joining, filtering, aggregating, etc).
 
